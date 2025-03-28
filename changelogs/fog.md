@@ -1,3 +1,10 @@
+# March 28, 2025 (revision 3)
+- Add Accord music player
+- Replace Aperture with GrapheneOS Camera
+
+# March 28, 2025 (revision 2)
+- Fix GameSpace is not installed
+
 # March 28, 2025
 - March 2025 (QPR2) update
 - Switch to my custom fork of PixelOS
