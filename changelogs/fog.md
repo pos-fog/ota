@@ -1,3 +1,6 @@
+# April 1, 2025
+- Sync sources
+
 # March 28, 2025 (revision 3)
 - Add Accord music player
 - Replace Aperture with GrapheneOS Camera
