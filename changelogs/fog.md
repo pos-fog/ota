@@ -1,3 +1,11 @@
+# April 19, 2025
+- April secpatch
+- powerhint: Restrict max CPU freq to critical hints
+- init: Align cpusets with crosshatch
+- Revert "fog: rootdir: Start bootanimation on post-fs"
+- Drop MIUI offline charging (chargeonlymode)
+- Switch to AOSP offline charging animation
+
 # April 1, 2025
 - Sync sources
 
