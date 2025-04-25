@@ -1,3 +1,8 @@
+# April 25, 2025
+- Replace Accord with Gramophone music player by default
+- Updated prebuilt kernel (update defconfig - now CPU freq governor defaults to `schedutil`)
+- Sync with latest PixelOS sources
+
 # April 19, 2025
 - April secpatch
 - powerhint: Restrict max CPU freq to critical hints
