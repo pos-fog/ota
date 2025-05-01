@@ -1,3 +1,8 @@
+# May 1, 2025
+- props: Import lmkd props from rhode (NOTE: I use Simple LMK on prebuilt kernel, but it's nice to have it for preserving compatibility with custom kernel that uses userspace LMK/LMKD)
+- overlay: Enable split shade QS on landscape mode
+- Sync sources to PixelOS-AOSP latest commits
+
 # April 25, 2025
 - Replace Accord with Gramophone music player by default
 - Updated prebuilt kernel (update defconfig - now CPU freq governor defaults to `schedutil`)
