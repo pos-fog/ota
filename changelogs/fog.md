@@ -1,3 +1,11 @@
+# May 16, 2025
+- Default DPI now set to 280 (411 dp)
+- Add Google Recorder app by default
+- Drop legacy `armeabi` support (doesn't affect anything except if you uses legacy Android applications that targetted for Android version older than Marshmallow/Nougat)
+- Build QTI USB Gadget HAL
+- Switch to NCM USB Tethering
+- and misc. changes
+
 # May 1, 2025
 - props: Import lmkd props from rhode (NOTE: I use Simple LMK on prebuilt kernel, but it's nice to have it for preserving compatibility with custom kernel that uses userspace LMK/LMKD)
 - overlay: Enable split shade QS on landscape mode
