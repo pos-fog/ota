@@ -1,3 +1,7 @@
+# May 20, 2025
+- Introduce **DeviceAsWebcam**
+- Drop `ro.surface_flinger.force_hwc_copy_for_virtual_displays` prop
+
 # May 16, 2025
 - Default DPI now set to 280 (411 dp)
 - Add Google Recorder app by default
