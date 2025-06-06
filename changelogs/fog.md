@@ -1,3 +1,17 @@
+# June 6, 2025
+- **Maybe the last before Android 16**
+- **this build is not rolled out to OTA updates, you need to manual flash due to re-generated signing keys**
+- Remove some deprecated stuff on overlays
+- Update `surfaceflinger` durations
+- Completely disable attestation hooks by default (to pass Integrity, use PIFork and TrickyStore with Tricky Addon + valid keyboxes or 'use AOSP keybox')
+- Bring back Android Go configurations
+- Revert split shade QS (as per feedback)
+- init: add context_hub into audio hal group
+- init: Add "system" group to Audio HAL
+- Silence HWUI Logspam
+- Update `powerhint.json` - remove non-existing nodes due to kernel change, and reducing log spam
+- and misc. things
+
 # May 20, 2025
 - Introduce **DeviceAsWebcam**
 - Drop `ro.surface_flinger.force_hwc_copy_for_virtual_displays` prop
