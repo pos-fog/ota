@@ -1,5 +1,5 @@
 # June 8, 2025
-- **Do not install this OTA on 20 May build or older since signing keys are re-generated. This is for 6 June build users**
+### **Do not install this OTA on 20 May build or older since signing keys are re-generated. This is for 6 June build users**
 - **June 2025 security patch**
 - **fixed kernel issue that caused to stuck at Mi logo when rebooting to recovery**
 - powerhint: Bring back CPUBigClusterMinFreq on INTERACTION
