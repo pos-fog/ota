@@ -1,3 +1,8 @@
+# June 8, 2025
+- **June 2025 security patch**
+- **fixed kernel issue that caused to stuck at Mi logo when rebooting to recovery**
+- powerhint: Bring back CPUBigClusterMinFreq on INTERACTION
+
 # June 6, 2025
 - **Maybe the last before Android 16**
 - **this build is not rolled out to OTA updates, you need to manual flash due to re-generated signing keys**
