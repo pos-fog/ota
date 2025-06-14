@@ -1,3 +1,13 @@
+# June 14, 2025
+### **Do not install this OTA on 20 May build or older since signing keys are re-generated.
+- Revert "fog: powerhint: Restrict max CPU freq to critical hints"
+- Drop neural networks service
+- Move to Xiaomi fingerprint AIDL HAL
+- powerhint: Update interaction boost
+- init: Bring back `start mi_thermald`
+- Updated prebuilt kernel
+- Settings: Move 'Gesture Navigation' out of 'Gestures' page (now in Settings -> System -> Navigation mode), matches original Pixel UI
+
 # June 8, 2025
 ### **Do not install this OTA on 20 May build or older since signing keys are re-generated. This is for 6 June build users**
 - **June 2025 security patch**
