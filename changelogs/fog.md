@@ -1,3 +1,8 @@
+# 20252707
+- Updated prebuilt kernel
+- For new installation (clean flash), I no longer shipped Gmail and Google Maps
+- Some minor source changes
+
 # 20252007
 - Settings: Remove "Google Play System Update" in Android Version
 - Properly disable some unused GMS components and disable Pixel Battery widget
