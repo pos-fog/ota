@@ -1,3 +1,7 @@
+# 20251103
+- Sync sources
+- Updated prebuilt kernel
+
 # 20251101-a
 - [Fix default lockscreen clock font](https://github.com/pos-fog/android_vendor_lineage/commit/dc948aa074e19e7c4a666efc3cc835f9489ccf00)
 - [config: enable OTA updater for unofficial builds](https://github.com/pos-fog/android_vendor_custom/commit/968f34208e44e773d8b11fe98e5938d3e721d748)
