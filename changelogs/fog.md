@@ -1,3 +1,9 @@
+# 20251221
+- Android 16 QPR1 build + Material 3 Expressive
+- [enable lockscreen landscape mode](https://review.lineageos.org/c/LineageOS/android_frameworks_base/+/465790) - this also enable new landscape mode QS (not a split shade hack through device overlay)
+- update statusbar paddings and fix round corners drawables not rendered properly on "Hide" display cutout
+- ship with 4.19.325-Cirno kernel (KSU)
+
 # 20251103
 - Sync sources
 - Updated prebuilt kernel
