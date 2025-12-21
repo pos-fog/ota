@@ -1,11 +1,11 @@
 {
     "response": [
         {
-            "datetime": "1762130312",
-            "filename": "PixelOS_fog-16.0-20251103-0040.zip",
-            "id": "a607928ec1ecc817a26b6983a617d5bf",
-            "size": "2000192695",
-            "url": "https://github.com/alternoegraha/releases/releases/download/PixelOS_fog-16.0-20251103-0040/PixelOS_fog-16.0-20251103-0040.zip",
+            "datetime": "1766276217",
+            "filename": "PixelOS_fog-16.1-20251221-0018.zip",
+            "id": "d6f582cebb1c0247cdd617955a46bf15",
+            "size": "2072136130",
+            "url": "https://github.com/alternoegraha/releases/releases/download/PixelOS_fog-16.1-20251221-0018/PixelOS_fog-16.1-20251221-0018.zip",
             "version": "16"
         }
     ]
