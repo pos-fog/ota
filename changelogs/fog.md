@@ -1,3 +1,9 @@
+# 20260116
+- **Happy new year.**
+- **Now ships with non KSU version of Cirno kernel by default + cip126 merged**
+- Sync to PixelOS-AOSP sixteen-qpr1 latest sources
+- Fix DND icon in new reverse-engineered smartspace
+
 # 20251221
 - Android 16 QPR1 build + Material 3 Expressive
 - [enable lockscreen landscape mode](https://review.lineageos.org/c/LineageOS/android_frameworks_base/+/465790) - this also enable new landscape mode QS (not a split shade hack through device overlay)
