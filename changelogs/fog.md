@@ -2,6 +2,7 @@
 - **Happy new year.**
 - **Now ships with non KSU version of Cirno kernel by default + cip126 merged**
 - Sync to PixelOS-AOSP sixteen-qpr1 latest sources
+- Fix lock icon being too small in lock screen
 - Fix DND icon in new reverse-engineered smartspace
 
 # 20251221
