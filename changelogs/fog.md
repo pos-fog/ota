@@ -1,5 +1,7 @@
 # 20260311
 - QPR2 release
+- ship with 4.19.325-cip128-st12 kernel
+- updated statusbar padding and height
 
 # 20260116
 - **Happy new year.**
