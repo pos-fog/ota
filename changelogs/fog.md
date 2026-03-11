@@ -1,3 +1,6 @@
+# 20260311
+- QPR2 release
+
 # 20260116
 - **Happy new year.**
 - **Now ships with non KSU version of Cirno kernel by default + cip126 merged**
