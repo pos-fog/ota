@@ -1,3 +1,8 @@
+# 20260315
+- add cloned apps feature
+- updated prebuilt kernel (4.19.325-cip129-st13)
+- sync sources to latest
+
 # 20260311
 - QPR2 release
 - ship with 4.19.325-cip128-st12 kernel
