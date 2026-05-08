@@ -1,3 +1,8 @@
+# 20260507
+- May ASB + sync PixelOS changes (+ kang some stuff from pos-gm)
+- switch default kernel to Motregen-R2 (4.19.325-cip131-st15)
+- disable OMX avc secure decoder (hopefully fixes streaming apps issue e.g Netflix/Disney+, but need further tests)
+
 # 20260315
 - add cloned apps feature
 - updated prebuilt kernel (4.19.325-cip129-st13)
