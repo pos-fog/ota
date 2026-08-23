@@ -1,3 +1,10 @@
+# 20260823
+- Drop wallpapers that requires AICore to work
+- Drop Pixel Live Wallpapers
+
+# 20260822
+- Initial Android 17 build.
+
 # 20260507
 - May ASB + sync PixelOS changes (+ kang some stuff from pos-gm)
 - switch default kernel to Motregen-R2 (4.19.325-cip131-st15)
